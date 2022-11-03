@@ -1,0 +1,5 @@
+{
+    "login.email.error_message": "Email is required",
+    "login.password.error_message": "Password is required",
+    "resetPassword.email.error_message": "Email address does not exist"
+}
